@@ -80,7 +80,7 @@ const Page = (props) => (
     >
       <ResponsiveContainer
         paperStyle={{
-          height: "calc(100vh - 184px)"
+          minHeight: "calc(100vh - 184px)"
         }}
       >
         <div
